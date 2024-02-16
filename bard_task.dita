@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fw5_5f3_2zb">
+    <title>How do I use Google Bard?</title>
+    <shortdesc>Google Bard, like ChatGPT, accepts input questions from you and generates full-text
+        responses. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Use this procedure to access Google Bard and to enter a query. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In your web browser, open https://bard.google.com/ .</cmd>
+            </step>
+            <step>
+                <cmd>Enter the following question.</cmd>
+                <info><image href="images/bard-input.png" id="image_ejn_qjd_hzb"/></info>
+            </step>
+            <step>
+                <cmd>Review Bard's response. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

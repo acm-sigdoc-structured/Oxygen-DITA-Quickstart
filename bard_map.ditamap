@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Introduction to Google Bard</title>
+    <topicref href="bard_concept_what-is-bard.dita">
+        <topicref href="bard_concept_generative-ai.dita"/>
+        <topicref href="bard_task.dita"/>
+        <topicref href="bard_reference.dita"/>
+    </topicref>
+</map>

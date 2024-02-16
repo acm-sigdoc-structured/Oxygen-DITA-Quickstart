@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vcx_mj3_2zb">
+    <title>What is Google Bard?</title>
+    <shortdesc>Google Bard is as a public, generative AI tool that allows you to get full-text,
+        conversational responses to your questions. </shortdesc>
+    <conbody>
+        <p>Google Bard is an artificial intelligence chatbot that can respond to a user's questions
+            (or prompts) on any subject with an almost human-like "understanding." It performs
+            text-based tasks like creating various forms of content, summarizing text, and
+            translating between languages.</p>
+        <image placement="break" href="images/bard1.png" id="image_oxn_ctg_hzb">
+            <alt>Bard home page</alt>
+        </image>
+    </conbody>
+</concept>
